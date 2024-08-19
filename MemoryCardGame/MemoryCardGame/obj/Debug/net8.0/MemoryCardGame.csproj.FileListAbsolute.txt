@@ -1,0 +1,14 @@
+C:\Users\Hüseyin Dönmez\source\repos\MemoryCardGame\MemoryCardGame\bin\Debug\net8.0\MemoryCardGame.exe
+C:\Users\Hüseyin Dönmez\source\repos\MemoryCardGame\MemoryCardGame\bin\Debug\net8.0\MemoryCardGame.deps.json
+C:\Users\Hüseyin Dönmez\source\repos\MemoryCardGame\MemoryCardGame\bin\Debug\net8.0\MemoryCardGame.runtimeconfig.json
+C:\Users\Hüseyin Dönmez\source\repos\MemoryCardGame\MemoryCardGame\bin\Debug\net8.0\MemoryCardGame.dll
+C:\Users\Hüseyin Dönmez\source\repos\MemoryCardGame\MemoryCardGame\bin\Debug\net8.0\MemoryCardGame.pdb
+C:\Users\Hüseyin Dönmez\source\repos\MemoryCardGame\MemoryCardGame\obj\Debug\net8.0\MemoryCardGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hüseyin Dönmez\source\repos\MemoryCardGame\MemoryCardGame\obj\Debug\net8.0\MemoryCardGame.AssemblyInfoInputs.cache
+C:\Users\Hüseyin Dönmez\source\repos\MemoryCardGame\MemoryCardGame\obj\Debug\net8.0\MemoryCardGame.AssemblyInfo.cs
+C:\Users\Hüseyin Dönmez\source\repos\MemoryCardGame\MemoryCardGame\obj\Debug\net8.0\MemoryCardGame.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin Dönmez\source\repos\MemoryCardGame\MemoryCardGame\obj\Debug\net8.0\MemoryCardGame.dll
+C:\Users\Hüseyin Dönmez\source\repos\MemoryCardGame\MemoryCardGame\obj\Debug\net8.0\refint\MemoryCardGame.dll
+C:\Users\Hüseyin Dönmez\source\repos\MemoryCardGame\MemoryCardGame\obj\Debug\net8.0\MemoryCardGame.pdb
+C:\Users\Hüseyin Dönmez\source\repos\MemoryCardGame\MemoryCardGame\obj\Debug\net8.0\MemoryCardGame.genruntimeconfig.cache
+C:\Users\Hüseyin Dönmez\source\repos\MemoryCardGame\MemoryCardGame\obj\Debug\net8.0\ref\MemoryCardGame.dll
